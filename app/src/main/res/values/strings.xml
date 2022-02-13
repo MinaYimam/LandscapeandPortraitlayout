@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Landscape and portrait layout</string>
+    <string name="seekbar_value_message">The seek bar value is %1$d</string>
+</resources>
